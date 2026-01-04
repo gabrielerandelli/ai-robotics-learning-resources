@@ -11,6 +11,12 @@ List of useful resources about AI &amp; Robotics
 * [Google Antigravity](https://antigravity.google/)
 * [Claude Code](https://claude.com/product/claude-code)
 * [Replit](https://replit.com/)
+* [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+* [Agent Development Kit](https://google.github.io/adk-docs/)
+* [GitHub MCP Server](https://github.com/github/github-mcp-server)
+* [Vertex AI GenMedia Creative Studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main)
+* [Google MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox)
+* [A2A Protocol](https://a2a-protocol.org/latest/)
 
 ### Whitepapers
 * [Hugging Face The Smol Training Playbook:
