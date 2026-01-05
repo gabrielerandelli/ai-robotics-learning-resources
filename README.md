@@ -24,8 +24,8 @@ The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingF
 
 ### Research Papers
 * (Dec 25) [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880) (by DeepSeek-AI)
-* (Sep 25) [Video models are zero-shot learners and reasoners](https://arxiv.org/pdf/2509.20328)
-* (Sep 25) [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/) (by Thinking Machines)
+* T. Wiedemer, Y. Li, P. Vicol, S.S. Gu, N. Matarese, K. Swersky, B. Kim, P. Jaini, R. Geirhos [Video models are zero-shot learners and reasoners](https://arxiv.org/pdf/2509.20328), Sep 25 (Google DeepMind).
+* H. He, [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/), Sep 25 (Thinking Machines).
 * A. Bar, G. Zhou, D. Tran, T. Darrell, Y. LeCun, [Navigation World Models](https://arxiv.org/pdf/2412.03572), Apr 25.
 
 ### Blogs & News
