@@ -7,7 +7,7 @@ List of useful resources about AI &amp; Robotics
 * [Hugging Face Robotics Course](https://huggingface.co/robotics-course)
 * [AI for Business Leaders](https://maven.com/alliekmiller/ai-for-business-leaders) (by Allie K. Miller)
 * [Advent of Agents 2025](https://adventofagents.com/) (by Google Cloud - Agent Starter Pack, ADK, Agent Engine)
-* [unwind.ai](https://www.theunwindai.com/)
+* [Unwind AI](https://www.theunwindai.com/)
 
 ### Projects & Software
 * [Google Antigravity](https://antigravity.google/)
