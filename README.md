@@ -30,6 +30,7 @@ The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingF
 * T. Wiedemer, Y. Li, P. Vicol, S.S. Gu, N. Matarese, K. Swersky, B. Kim, P. Jaini, R. Geirhos [Video models are zero-shot learners and reasoners](https://arxiv.org/pdf/2509.20328), Sep 25 (Google DeepMind).
 * H. He, [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/), Sep 25 (Thinking Machines).
 * A. Bar, G. Zhou, D. Tran, T. Darrell, Y. LeCun, [Navigation World Models](https://arxiv.org/pdf/2412.03572), Apr 25.
+* A. Vaswani et al., [Attention Is All You Need](https://arxiv.org/pdf/1706.03762), Jun 17 (Google).
 
 ### Blogs & News
 * [DeepMind Blog](https://deepmind.google/blog/)
