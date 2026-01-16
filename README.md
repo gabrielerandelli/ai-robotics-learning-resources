@@ -9,6 +9,7 @@ List of useful resources about AI &amp; Robotics
 * [Advent of Agents 2025](https://adventofagents.com/) (by Google Cloud - Agent Starter Pack, ADK, Agent Engine)
 * [Unwind AI](https://www.theunwindai.com/)
 * [Getting Started with Google Antigravity](https://codelabs.developers.google.com/getting-started-google-antigravity#1)
+* [Master Claude Code](https://www.masterclaudecode.com/)
 
 ### Projects & Software
 * [Google Antigravity](https://antigravity.google/)
