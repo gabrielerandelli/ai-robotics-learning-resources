@@ -45,4 +45,5 @@ The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingF
 * [Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python](https://www.amazon.it/dp/1839217715/ref=pe_112165041_1111473501_SRTC0202IMG_SRTC99_cm_rv_eml_rv0_dp) by S. Jansen
 
 ### YouTube
+* (Jan 26) [Ray Amjad - My Claude Code Workflow for 2026](https://www.youtube.com/watch?v=sy65ARFI9Bg)
 * (Nov 25) [Andrej Karpathy — “We’re summoning ghosts, not building animals”](https://www.youtube.com/watch?v=lXUZvyajciY)
