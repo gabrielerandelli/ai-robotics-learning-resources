@@ -10,6 +10,7 @@ List of useful resources about AI &amp; Robotics
 * [Unwind AI](https://www.theunwindai.com/)
 * [Getting Started with Google Antigravity](https://codelabs.developers.google.com/getting-started-google-antigravity#1)
 * [Master Claude Code](https://www.masterclaudecode.com/)
+* [Free Claude Code Course for Product Managers](https://ccforpms.com/)
 
 ### Projects & Software
 * [Google Antigravity](https://antigravity.google/)
