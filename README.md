@@ -42,6 +42,7 @@ The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingF
 * [State of AI Report](https://www.stateof.ai/)
 * [The Cloud Girl](https://www.thecloudgirl.dev/videos) (by Priyanka Vergadia, Microsoft, Xoogler)
 * [How to build with Nano Banana: Complete Developer Tutorial](https://dev.to/googleai/how-to-build-with-nano-banana-complete-developer-tutorial-646) (by Patrick Loeber, DeepMind)
+* [A Structured Workflow for "Vibe Coding" Full-Stack Apps](https://dev.to/wasp/a-structured-workflow-for-vibe-coding-full-stack-apps-352l)
 
 ### Books
 * [Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python](https://www.amazon.it/dp/1839217715/ref=pe_112165041_1111473501_SRTC0202IMG_SRTC99_cm_rv_eml_rv0_dp) by S. Jansen
