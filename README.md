@@ -1,71 +1,151 @@
+<div align="center">
+
 # AI & Robotics Learning Resources
-List of useful resources about AI &amp; Robotics
+
+**A curated collection of resources for learning AI, Robotics, Agents, and Vibe Coding**
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+---
+
+</div>
+
+## Navigation
+
+| Section | Topics |
+|---------|--------|
+| [AI (Generic Track)](#ai-generic-track) | Courses, Projects, Whitepapers, Research Papers, Blogs, Books, Videos |
+| [Vibe Coding](#vibe-coding) | Courses, Projects & Tools, Blogs, Videos |
+| [Agents](#agents) | Courses, Projects & Protocols |
+| [Robotics](#robotics) | Courses |
+
+---
 
 ## AI (Generic Track)
+
 ### Courses
-* [Deeplearning.ai](https://www.deeplearning.ai/)
-* [Google DeepMind: AI Research Foundations](https://www.skills.google/paths/3135)
-* [AI for Business Leaders](https://maven.com/alliekmiller/ai-for-business-leaders) (by Allie K. Miller)
-* [Unwind AI](https://www.theunwindai.com/)
+
+| Resource | Description |
+|----------|-------------|
+| [Deeplearning.ai](https://www.deeplearning.ai/) | Comprehensive AI/ML courses by Andrew Ng |
+| [Google DeepMind: AI Research Foundations](https://www.skills.google/paths/3135) | AI research fundamentals by Google |
+| [AI for Business Leaders](https://maven.com/alliekmiller/ai-for-business-leaders) | Business-focused AI course by Allie K. Miller |
+| [Unwind AI](https://www.theunwindai.com/) | AI learning platform |
 
 ### Projects & Software
-* [Vertex AI GenMedia Creative Studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main)
+
+| Resource | Description |
+|----------|-------------|
+| [Vertex AI GenMedia Creative Studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main) | Google Cloud's generative media toolkit |
 
 ### Whitepapers
-* [Hugging Face The Smol Training Playbook:
-The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#introduction)
+
+| Resource | Description |
+|----------|-------------|
+| [The Smol Training Playbook](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#introduction) | Hugging Face guide to building world-class LLMs |
 
 ### Research Papers
-* (Dec 25) [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880) (by DeepSeek-AI)
-* T. Wiedemer, Y. Li, P. Vicol, S.S. Gu, N. Matarese, K. Swersky, B. Kim, P. Jaini, R. Geirhos [Video models are zero-shot learners and reasoners](https://arxiv.org/pdf/2509.20328), Sep 25 (Google DeepMind).
-* H. He, [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/), Sep 25 (Thinking Machines).
-* A. Bar, G. Zhou, D. Tran, T. Darrell, Y. LeCun, [Navigation World Models](https://arxiv.org/pdf/2412.03572), Apr 25.
-* A. Vaswani et al., [Attention Is All You Need](https://arxiv.org/pdf/1706.03762), Jun 17 (Google).
+
+| Paper | Authors | Date |
+|-------|---------|------|
+| [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880) | DeepSeek-AI | Dec 2025 |
+| [Video models are zero-shot learners and reasoners](https://arxiv.org/pdf/2509.20328) | T. Wiedemer, Y. Li, P. Vicol et al. (Google DeepMind) | Sep 2025 |
+| [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/) | H. He (Thinking Machines) | Sep 2025 |
+| [Navigation World Models](https://arxiv.org/pdf/2412.03572) | A. Bar, G. Zhou, D. Tran et al. | Apr 2025 |
+| [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) | A. Vaswani et al. (Google) | Jun 2017 |
 
 ### Blogs & News
-* [DeepMind Blog](https://deepmind.google/blog/)
-* [Google Research](https://research.google/blog/)
-* [MIT Technology Review](https://www.technologyreview.com/)
-* [VentureBeat AI](https://venturebeat.com/category/ai)
-* [State of AI Report](https://www.stateof.ai/)
-* [The Cloud Girl](https://www.thecloudgirl.dev/videos) (by Priyanka Vergadia, Microsoft, Xoogler)
-* [How to build with Nano Banana: Complete Developer Tutorial](https://dev.to/googleai/how-to-build-with-nano-banana-complete-developer-tutorial-646) (by Patrick Loeber, DeepMind)
+
+| Resource | Description |
+|----------|-------------|
+| [DeepMind Blog](https://deepmind.google/blog/) | Official Google DeepMind blog |
+| [Google Research](https://research.google/blog/) | Google Research publications |
+| [MIT Technology Review](https://www.technologyreview.com/) | Tech news and analysis |
+| [VentureBeat AI](https://venturebeat.com/category/ai) | AI industry news |
+| [State of AI Report](https://www.stateof.ai/) | Annual AI industry report |
+| [The Cloud Girl](https://www.thecloudgirl.dev/videos) | Videos by Priyanka Vergadia (Microsoft) |
+| [How to build with Nano Banana](https://dev.to/googleai/how-to-build-with-nano-banana-complete-developer-tutorial-646) | Tutorial by Patrick Loeber (DeepMind) |
 
 ### Books
-* [Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python](https://www.amazon.it/dp/1839217715/ref=pe_112165041_1111473501_SRTC0202IMG_SRTC99_cm_rv_eml_rv0_dp) by S. Jansen
+
+| Book | Author |
+|------|--------|
+| [Machine Learning for Algorithmic Trading](https://www.amazon.it/dp/1839217715/ref=pe_112165041_1111473501_SRTC0202IMG_SRTC99_cm_rv_eml_rv0_dp) | S. Jansen |
 
 ### YouTube
-* (Nov 25) [Andrej Karpathy — “We’re summoning ghosts, not building animals”](https://www.youtube.com/watch?v=lXUZvyajciY)
+
+| Video | Date |
+|-------|------|
+| [Andrej Karpathy — "We're summoning ghosts, not building animals"](https://www.youtube.com/watch?v=lXUZvyajciY) | Nov 2025 |
+
+---
 
 ## Vibe Coding
+
 ### Courses
-* [Getting Started with Google Antigravity](https://codelabs.developers.google.com/getting-started-google-antigravity#1)
-* [Master Claude Code](https://www.masterclaudecode.com/)
-* [Free Claude Code Course for Product Managers](https://ccforpms.com/)
+
+| Resource | Description |
+|----------|-------------|
+| [Getting Started with Google Antigravity](https://codelabs.developers.google.com/getting-started-google-antigravity#1) | Official Google Antigravity codelab |
+| [Master Claude Code](https://www.masterclaudecode.com/) | Comprehensive Claude Code course |
+| [Free Claude Code Course for Product Managers](https://ccforpms.com/) | PM-focused Claude Code training |
 
 ### Projects & Software
-* [Google Antigravity](https://antigravity.google/)
-* [Claude Code](https://claude.com/product/claude-code)
-* [Replit](https://replit.com/)
-* [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+
+| Resource | Description |
+|----------|-------------|
+| [Google Antigravity](https://antigravity.google/) | Google's AI coding assistant |
+| [Claude Code](https://claude.com/product/claude-code) | Anthropic's CLI coding tool |
+| [Replit](https://replit.com/) | Browser-based development environment |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's Gemini command-line interface |
 
 ### Blogs & News
-* [A Structured Workflow for "Vibe Coding" Full-Stack Apps](https://dev.to/wasp/a-structured-workflow-for-vibe-coding-full-stack-apps-352l)
-* [The 4 Golden Rules of Vibe Coding](https://www.nathanonn.com/4-golden-rules-of-vibe-coding/)
+
+| Resource | Description |
+|----------|-------------|
+| [A Structured Workflow for "Vibe Coding" Full-Stack Apps](https://dev.to/wasp/a-structured-workflow-for-vibe-coding-full-stack-apps-352l) | Workflow guide for vibe coding |
+| [The 4 Golden Rules of Vibe Coding](https://www.nathanonn.com/4-golden-rules-of-vibe-coding/) | Best practices for vibe coding |
 
 ### YouTube
-* (Jan 26) [Ray Amjad - My Claude Code Workflow for 2026](https://www.youtube.com/watch?v=sy65ARFI9Bg)
+
+| Video | Date |
+|-------|------|
+| [Ray Amjad - My Claude Code Workflow for 2026](https://www.youtube.com/watch?v=sy65ARFI9Bg) | Jan 2026 |
+
+---
 
 ## Agents
+
 ### Courses
-* [Advent of Agents 2025](https://adventofagents.com/) (by Google Cloud - Agent Starter Pack, ADK, Agent Engine)
+
+| Resource | Description |
+|----------|-------------|
+| [Advent of Agents 2025](https://adventofagents.com/) | Google Cloud course on Agent Starter Pack, ADK, Agent Engine |
 
 ### Projects & Software
-* [Agent Development Kit](https://google.github.io/adk-docs/)
-* [GitHub MCP Server](https://github.com/github/github-mcp-server)
-* [Google MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox)
-* [A2A Protocol](https://a2a-protocol.org/latest/)
+
+| Resource | Description |
+|----------|-------------|
+| [Agent Development Kit](https://google.github.io/adk-docs/) | Google's agent development framework |
+| [GitHub MCP Server](https://github.com/github/github-mcp-server) | GitHub's Model Context Protocol server |
+| [Google MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox) | Database tooling for MCP |
+| [A2A Protocol](https://a2a-protocol.org/latest/) | Agent-to-Agent communication protocol |
+
+---
 
 ## Robotics
+
 ### Courses
-* [Hugging Face Robotics Course](https://huggingface.co/robotics-course)
+
+| Resource | Description |
+|----------|-------------|
+| [Hugging Face Robotics Course](https://huggingface.co/robotics-course) | Open-source robotics curriculum |
+
+---
+
+<div align="center">
+
+**[Back to Top](#navigation)**
+
+</div>
