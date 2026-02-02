@@ -22,13 +22,33 @@ When adding new resources:
 - For research papers, include authors and date
 - For videos, include date
 - Place entries in appropriate category sections
+- Place entries in descending order by publish date, whenever available in the section
 
 ## GitHub Guidelines
 - Don't add Claude as co-author when commiting on GitHub
+- never commit links.txt file
 
 ## Link validity
-- Before commiting, navigate all the existing links to double check if they're still available. If not anymore, remove them
+- Before commiting, navigate all the existing links to double check if they're still available. If not anymore, remove them. Use three agents in parallel for doing this.
 - Before commiting, navigate all new existing links to double check if they're reachable. If not, let me know
 
 ## UX
 - Before committing, double check the layout of the page with the playwright tool and act as a UX reviewer. If you feel that the page usability is not good, feel free to propose improvement, which I MUST ACCEPT before applying them
+
+## Playwright Setup (if needed)
+If Playwright browser is not installed, run:
+```bash
+npx playwright install chromium
+```
+
+If system libraries are missing (e.g., `libxkbcommon.so.0`), install them:
+```bash
+sudo apt-get install -y libxkbcommon0 libglib2.0-0 libnss3 libnspr4 libdbus-1-3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2t64 libatspi2.0-0
+```
+
+To take screenshots for link verification:
+```bash
+npx playwright screenshot --wait-for-timeout 5000 "<URL>" /tmp/screenshot.png
+```
+
+Note: WebFetch does not work with X/Twitter or YouTube - use Playwright instead for these sites.
