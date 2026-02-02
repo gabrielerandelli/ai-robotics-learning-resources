@@ -47,13 +47,13 @@
 
 ### Research Papers
 
-| Paper | Authors | Date |
-|-------|---------|------|
-| [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880) | DeepSeek-AI | Dec 2025 |
-| [Video models are zero-shot learners and reasoners](https://arxiv.org/pdf/2509.20328) | T. Wiedemer, Y. Li, P. Vicol et al. (Google DeepMind) | Sep 2025 |
-| [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/) | H. He (Thinking Machines) | Sep 2025 |
-| [Navigation World Models](https://arxiv.org/pdf/2412.03572) | A. Bar, G. Zhou, D. Tran et al. | Apr 2025 |
-| [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) | A. Vaswani et al. (Google) | Jun 2017 |
+| Paper | Authors | Date | Description |
+|-------|---------|------|-------------|
+| [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880) | DeepSeek-AI | Dec 2025 | Restores identity mapping in hyper-connections for stable, scalable deep learning training |
+| [Video models are zero-shot learners and reasoners](https://arxiv.org/pdf/2509.20328) | T. Wiedemer, Y. Li, P. Vicol et al. (Google DeepMind) | Sep 2025 | Shows Veo 3 video models perform diverse vision tasks without explicit training |
+| [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/) | H. He (Thinking Machines) | Sep 2025 | Explains root causes of LLM inference nondeterminism and achieving reproducible results |
+| [Navigation World Models](https://arxiv.org/pdf/2412.03572) | A. Bar, G. Zhou, D. Tran et al. | Apr 2025 | Controllable video generation model that predicts future views for robot navigation |
+| [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) | A. Vaswani et al. (Google) | Jun 2017 | Introduces transformer architecture using only attention mechanisms for sequence tasks |
 
 ### Blogs & News
 
@@ -69,15 +69,15 @@
 
 ### Books
 
-| Book | Author |
-|------|--------|
-| [Machine Learning for Algorithmic Trading](https://www.amazon.it/dp/1839217715/ref=pe_112165041_1111473501_SRTC0202IMG_SRTC99_cm_rv_eml_rv0_dp) | S. Jansen |
+| Book | Author | Description |
+|------|--------|-------------|
+| [Machine Learning for Algorithmic Trading](https://www.amazon.it/dp/1839217715/ref=pe_112165041_1111473501_SRTC0202IMG_SRTC99_cm_rv_eml_rv0_dp) | S. Jansen | Build systematic trading strategies using ML models and Python for market data analysis |
 
 ### YouTube
 
-| Video | Date |
-|-------|------|
-| [Andrej Karpathy — "We're summoning ghosts, not building animals"](https://www.youtube.com/watch?v=lXUZvyajciY) | Nov 2025 |
+| Video | Date | Description |
+|-------|------|-------------|
+| [Andrej Karpathy — "We're summoning ghosts, not building animals"](https://www.youtube.com/watch?v=lXUZvyajciY) | Nov 2025 | Karpathy explains why LLMs are a unique form of intelligence, distinct from biological minds |
 
 ---
 
@@ -111,10 +111,10 @@
 
 ### YouTube
 
-| Video | Date |
-|-------|------|
-| [Ray Amjad - My Claude Code Workflow for 2026](https://www.youtube.com/watch?v=sy65ARFI9Bg) | Jan 2026 |
-| [I Ship Code I Don't Read - Peter Steinberger (The Pragmatic Engineer)](https://www.youtube.com/watch?v=8lF7HmQ_RgY) | Jan 2026 |
+| Video | Date | Description |
+|-------|------|-------------|
+| [Ray Amjad - My Claude Code Workflow for 2026](https://www.youtube.com/watch?v=sy65ARFI9Bg) | Jan 2026 | Developer shares his productive Claude Code workflow combining multiple AI tools |
+| [I Ship Code I Don't Read - Peter Steinberger (The Pragmatic Engineer)](https://www.youtube.com/watch?v=8lF7HmQ_RgY) | Jan 2026 | Creator of Claw discusses AI-assisted coding where developers ship unread code |
 
 ---
 
