@@ -106,12 +106,15 @@
 |----------|-------------|
 | [A Structured Workflow for "Vibe Coding" Full-Stack Apps](https://dev.to/wasp/a-structured-workflow-for-vibe-coding-full-stack-apps-352l) | Workflow guide for vibe coding |
 | [The 4 Golden Rules of Vibe Coding](https://www.nathanonn.com/4-golden-rules-of-vibe-coding/) | Best practices for vibe coding |
+| [Boris Cherny's 22 Claude Code Tips](https://medium.com/@joe.njenga/boris-cherny-claude-code-creator-shares-these-22-tips-youre-probably-using-it-wrong-1b570aedefbe) | Tips from Claude Code's creator on workflows and productivity |
+| [Zara Zhang's CLAUDE.md Best Practices](https://x.com/zarazhangrui/status/2015057205800980731) | Guidance on writing effective CLAUDE.md files for project context |
 
 ### YouTube
 
 | Video | Date |
 |-------|------|
 | [Ray Amjad - My Claude Code Workflow for 2026](https://www.youtube.com/watch?v=sy65ARFI9Bg) | Jan 2026 |
+| [I Ship Code I Don't Read - Peter Steinberger (The Pragmatic Engineer)](https://www.youtube.com/watch?v=8lF7HmQ_RgY) | Jan 2026 |
 
 ---
 
