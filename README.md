@@ -104,6 +104,8 @@
 
 | Resource | Description |
 |----------|-------------|
+| [Machine's CLAUDE.md Instructions Thread](https://x.com/EXM7777/status/2018022297345654870) | Comprehensive thread on CLAUDE.md best practices and configuration tips |
+| [Modern AI PMs manage AI Agent teams, not prompts](https://x.com/Saboo_Shubham_/status/2017801963195220401) | Case study on Claude Cowork: from idea to release in 1.5 weeks using AI agent teams |
 | [A Structured Workflow for "Vibe Coding" Full-Stack Apps](https://dev.to/wasp/a-structured-workflow-for-vibe-coding-full-stack-apps-352l) | Workflow guide for vibe coding |
 | [The 4 Golden Rules of Vibe Coding](https://www.nathanonn.com/4-golden-rules-of-vibe-coding/) | Best practices for vibe coding |
 | [Boris Cherny's 22 Claude Code Tips](https://medium.com/@joe.njenga/boris-cherny-claude-code-creator-shares-these-22-tips-youre-probably-using-it-wrong-1b570aedefbe) | Tips from Claude Code's creator on workflows and productivity |
