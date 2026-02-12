@@ -25,18 +25,17 @@ When adding new resources:
 - Place entries in descending order by publish date, whenever available in the section
 
 ## GitHub Guidelines
-- Don't add Claude as co-author when commiting on GitHub
 - never commit links.txt file
 
 ## Link validity
 - Before commiting, navigate all the existing links to double check if they're still available. If not anymore, remove them. Use three agents in parallel for doing this.
 - Before commiting, navigate all new existing links to double check if they're reachable. If not, let me know
 
+## Duplication check
+- Check for duplicates before considering a new link to add to README.md
+
 ## Self-improvement
 - update @CLAUDE.md in this folder before committing, if during the current conversation you have learned something that could ease the process next time
-
-## UX
-- Before committing, double check the layout of the page with the playwright tool and act as a UX reviewer. If you feel that the page usability is not good, feel free to propose improvement, which I MUST ACCEPT before applying them
 
 ## Playwright Setup (if needed)
 If Playwright browser is not installed, run:
