@@ -106,6 +106,7 @@
 
 | Resource                                                                                                                                                              | Description                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378)                                                               | Anthropic's internal best practices for creating and distributing skills (Mar 2026) |
 | [How Claude Code Skills Work](https://x.com/pdrmnvd/status/2020967757706297797)                                                                                       | Deep dive into Claude Code Skills architecture and design patterns (Feb 2026)       |
 | [Machine's CLAUDE.md Instructions Thread](https://x.com/EXM7777/status/2018022297345654870)                                                                           | Comprehensive thread on CLAUDE.md best practices and configuration tips             |
 | [Modern AI PMs manage AI Agent teams, not prompts](https://x.com/Saboo_Shubham_/status/2017801963195220401)                                                           | Case study on Claude Cowork: from idea to release in 1.5 weeks using AI agent teams |
