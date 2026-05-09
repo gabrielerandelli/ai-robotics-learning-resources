@@ -95,13 +95,14 @@
 
 ### Projects & Software
 
-| Resource                                                  | Description                                                      |
-| --------------------------------------------------------- | ---------------------------------------------------------------- |
-| [Entire CLI](https://github.com/entireio/cli)             | Developer platform capturing AI agent sessions on every git push |
-| [Google Antigravity](https://antigravity.google/)         | Google's AI coding assistant                                     |
-| [Claude Code](https://claude.com/product/claude-code)     | Anthropic's CLI coding tool                                      |
-| [Replit](https://replit.com/)                             | Browser-based development environment                            |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's Gemini command-line interface                           |
+| Resource                                                     | Description                                                      |
+| ------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [Entire CLI](https://github.com/entireio/cli)                | Developer platform capturing AI agent sessions on every git push |
+| [Google Antigravity](https://antigravity.google/)            | Google's AI coding assistant                                     |
+| [Claude Code](https://claude.com/product/claude-code)        | Anthropic's CLI coding tool                                      |
+| [Replit](https://replit.com/)                                | Browser-based development environment                            |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli)    | Google's Gemini command-line interface                           |
+| [Matt Pocock's Skills](https://github.com/mattpocock/skills) | Curated collection of Claude Code skills for engineers           |
 
 ### Blogs & News
 
